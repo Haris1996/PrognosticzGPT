@@ -1,0 +1,14 @@
+aiohttp==3.8.5
+browser_cookie3==0.19.1
+colorama==0.4.6
+curl_cffi==0.5.7
+Flask==2.3.2
+Flask_Cors==3.0.10
+Js2Py==0.74
+openai==0.28.0
+pycryptodome==3.19.0
+quickjs==1.19.2
+Requests==2.31.0
+setuptools==65.5.0
+typing_extensions==4.8.0
+Vercel==0.2.1
